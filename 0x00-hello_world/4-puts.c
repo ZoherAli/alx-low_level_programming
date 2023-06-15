@@ -1,9 +1,13 @@
 #include <stdio.h>
+
+
 /**
- * main - A programm that prints a line with put function 
+ * main - Programming is like building a multilingual puzzle
  * Return: 0(Sucsess)
  */
 int main(void)
-{	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+
+{
+	uts("\"Programming is like building a multilingual puzzle");
+	eturn(0);
 }
